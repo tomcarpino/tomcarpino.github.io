@@ -12,6 +12,7 @@ I like [Google](https://www.google.com).
 
 I also linked my [about page](about.html). 
 
-### 
+### Headshot
+ 
 
 <img src="Images/headshot.jpg" style="width:75%">
