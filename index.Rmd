@@ -1,7 +1,17 @@
 ---
-title: "Holy cow!"
+title: "Tom Carpino's Webpage"
 ---
 
 ### I have a webpage!
 
 And I can put all kinds of stuff on it!
+
+### Add links 
+
+I like [Google](https://www.google.com). 
+
+I also linked my [about page](about.html). 
+
+### 
+
+<img src="Images/headshot.jpg" style="width:75%">
