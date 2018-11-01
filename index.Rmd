@@ -14,7 +14,7 @@ Other past projects and experience include strategic development and project man
 
 I also linked my resume in the [Professional Experience](Experience.html) tab. 
 
-Tom's Github account can be found [here](https://github.com/tomcarpino). 
+Tom's Github account can be found [here](https://github.com/tomcarpino), which is also listed in the top right Github icon.  
 
 Tom's email can be found using the mail icon tool on the top right.  
 
