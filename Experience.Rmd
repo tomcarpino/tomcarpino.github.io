@@ -1,0 +1,11 @@
+---
+title: "Experience"
+---
+
+### Professional Experience 
+
+Check out my [LinkedIn Profile](https://linkedin.com/in/tomcarpino/).
+
+Here is a copy of my current resume: 
+
+<img src="Documents/resume.pdf" alt="some text"  width="4200" height="4200">
