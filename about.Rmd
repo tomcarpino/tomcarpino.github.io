@@ -6,6 +6,6 @@ title: "About"
 
 This website was made using Rstudio by Tom Carpino. 
 
-Last update on October 18, 2018. 
+Last update on November 1, 2018. 
 
 
